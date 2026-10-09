@@ -1,0 +1,4 @@
+Age,Gender,First_Generation,Family_Income,Household_Size,Housing_Status,Scholarship,Tuition_Base,Semester,Course_Load,Work_Hours,Emergency_Expense,Sem_GPA,Attendance,LMS_Logins,Advising_Visits,Failed_Courses,Financial_Stress,Prediction Result,timestamp
+23,1,1,50000,4,3,1,2,4,2,23,3000,2.3,20,5,3,3,2,✅ Low Risk / Student Likely to Continue (Probability: 70.00%),2026-10-09 02:44:46.856448
+23,1,1,50000,4,3,0,0,4,2,4,300000,1.5,15,4,3,10,2,✅ Low Risk / Student Likely to Continue (Probability: 53.00%),2026-10-09 02:46:32.602746
+,,,,,,,,,,,,,,,,,,✅ Low Risk / Student Likely to Continue (Probability: 53.00%),2026-10-09 02:52:43.986467
